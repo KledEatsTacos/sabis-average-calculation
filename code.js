@@ -2,11 +2,9 @@
 // @name         SABIS Ortalama Hesaplama
 // @namespace    http://tampermonkey.net/
 // @version      2024-02-23
-// @description  try to take over the world!
-// @author       You
+// @description  Sabis marks calculator to show average of a student in a specific lesson
+// @author       KledEatsTacos
 // @match        https://obs.sabis.sakarya.edu.tr/Ders*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=edu.tr
-// @grant        none
 // ==/UserScript==
 
 (function () {
