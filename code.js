@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SABIS Ortalama Hesaplama
 // @namespace    http://tampermonkey.net/
-// @version      2024-02-23
+// @version      2025-01-08
 // @description  Sabis marks calculator to show average of a student in a specific lesson
 // @author       KledEatsTacos
 // @match        https://obs.sabis.sakarya.edu.tr/Ders*
