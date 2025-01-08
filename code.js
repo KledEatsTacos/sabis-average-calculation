@@ -49,7 +49,6 @@
                     };
                 }
 
-                // Replace them with inputs
                 const NOTE = parseFloat(columns[2].innerText.replace(',', '.'));
                 columns[2].innerHTML = "";
                 columns[2].appendChild(createInput(NOTE));
@@ -85,7 +84,7 @@
         input.classList.add("float-right");
         input.classList.add("text-right");
         input.classList.add("px-0");
-        input.classList.add("borderless-input"); // Add class to remove border
+        input.classList.add("borderless-input");
 
         input.setAttribute("min", 0);
         input.setAttribute("max", 100);
@@ -102,7 +101,6 @@
 
     calculateAverages();
 
-    // Add CSS to remove input borders and make the background transparent
     const style = document.createElement('style');
     style.innerHTML = `
         .borderless-input {
