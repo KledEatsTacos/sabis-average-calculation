@@ -30,4 +30,4 @@ The script finds all lesson cards on the page, extracts the grades and their wei
 ## Notes
 
 - The script assumes that the grades are in a specific format and may not work if the format changes.
-- The script cannot determine the letter grade.
+- The script cannot determine the letter grade (It's literally decided by the professor. Please don't bother me about it, I can't see the future)
