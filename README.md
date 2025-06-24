@@ -11,16 +11,11 @@ This is a simple script to allow Sakarya University students to calculate their 
    Choose your preferred browser and install the extension.
 
 
-3. **Add the Script to Tampermonkey**
+3. **Navigate to SABIS and add the Script to Tampermonkey**
 
-   After installing Tampermonkey, create a new script and paste the contents of [code.js](https://github.com/KledEatsTacos/sabis-average-calculation/blob/main/code.js) into it. then save the file.
+   After installing Tampermonkey, open your SABIS page. Create a new script and paste the contents of [code.js](https://github.com/KledEatsTacos/sabis-average-calculation/blob/main/code.js) into it. then save the file.
 
    ![image](https://github.com/user-attachments/assets/dd1eb53c-09ac-427e-945a-5dc1a248fd73)
-
-
-4. **Navigate to the SABIS Grades Page**
-
-   Go to the SABIS Grades Page, from there you will be able to change your grades and manipulate them, and see how many grades you need to get to pass your lessons!
 
 
 ## Features
