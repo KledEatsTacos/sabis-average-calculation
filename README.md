@@ -1,3 +1,6 @@
+#NOTE!!!!!!!!
+The script does not work on non-chrome browsers, until I figure out why, you'll need to use chrome to be able to use the script. (unless you figure out a way to fix it. thanks)
+
 # SABIS Average Calculation
 
 This is a simple script to allow Sakarya University students to calculate their average on the university's SABIS system.
